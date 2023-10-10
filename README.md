@@ -13,6 +13,9 @@ I generated a line plot of tumor volume versus time point for a single mouse tha
 Lastly, I calculated the correlation coefficient and linear regression model between mouse weight and average observed tumor volume for the entire Capomulin treatment regimen. 
 
 Findings:
+
 -There seemed to be a strong correlation between mouse weight and the average tumor volume. As the mouse weight increased the averge tumor volume increased. 
+
 -The line plot of tumor volume vs. time point for a single mouse treated with Capomulin shows improvement over 35 days time for the mouse l509, however there is an increase in the data at the end of the graph which I would want to investigate more and understand why the average tumor volume is increasing between 35-40 days and then the data stops.
+
 -For the box plot that shows the distrubution of the tumor volume for each treatment group (Capomulin, Ramicane, Infubinol, and Ceftamin), it clearly shows that Capomulin, Ramicane had the best results with the average final tumor volume (mm3) being about 38 mm3 and 35 mm3 respectively, whereas for Infubinol, and Ceftamin they were closer to 60 mm3.
